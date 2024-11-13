@@ -31894,7 +31894,7 @@ A.ws.prototype={
 oT(){var s=0,r=A.K(t.H),q=this,p,o
 var $async$oT=A.L(function(a,b){if(a===1)return A.H(b,r)
 while(true)switch(s){case 0:s=2
-return A.N($.LX().a_T("assets/hmdb.csv"),$async$oT)
+return A.N($.LX().a_T("assets/mycsv.csv"),$async$oT)
 case 2:p=b
 o=A.arc(A.a([p],t.yH),!0,null,",",'"','"',"\r\n",!0,!0,null).Xi(p,t.z)
 A.fM("csv list len "+A.k(q.f)+".length")
